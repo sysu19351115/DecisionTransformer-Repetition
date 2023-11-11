@@ -1,0 +1,1 @@
+{"type": "Algorithm", "checkpoint_version": "1.1", "format": "cloudpickle", "state_file": "/root/ray_results/pusher-ppo/PPO_Pusher-v4_4d805_00000_0_2023-10-26_19-31-47/checkpoint_001360/algorithm_state.pkl", "policy_ids": ["default_policy"], "ray_version": "2.5.1", "ray_commit": "a03efd9931128d387649dd48b0e4864b43d3bfb4"}
